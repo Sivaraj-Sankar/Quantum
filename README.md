@@ -1,2 +1,2 @@
 # Quantum
-Quantum 3rd Revolution
+Embracing the Quantum 3rd Revolution
