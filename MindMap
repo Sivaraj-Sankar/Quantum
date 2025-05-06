@@ -1,0 +1,6 @@
+1.Order Finding - gcd(a,N) = 1 modulo N
+2.Multiplicative Inverse = a.a`-1 = 1 modulo N
+2.Finding Order Finding Using the Phase Estimation 
+           Ma|x> = |ax modulo z> 
+                 find the egien value of Ma --> which will encode the phase estimation 
+3.Efficeintly finding the Order r, can solve the factor of N[Shor's Algorithm]
