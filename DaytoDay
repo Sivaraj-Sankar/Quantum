@@ -1,0 +1,7 @@
+July 2025 
+
+Physcial Qubit - Logical Qubit 
+- PQ - two-level quantum system such as a superconducting circuit, trapped ion, photon polarization, or quantum dot 
+- These qubits can hold superposition and entanglement, but are highly fragile, prone to decoherence, gate errors, and noise 
+- LQ - is a fault-tolerant abstraction built from multiple physical qubits through quantum error-correction 
+- It behaves like a reliable qubit in computations despite physical errors. Think of it as dozens, hundreds, 
