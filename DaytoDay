@@ -5,3 +5,35 @@ Physcial Qubit - Logical Qubit
 - These qubits can hold superposition and entanglement, but are highly fragile, prone to decoherence, gate errors, and noise 
 - LQ - is a fault-tolerant abstraction built from multiple physical qubits through quantum error-correction 
 - It behaves like a reliable qubit in computations despite physical errors. Think of it as dozens, hundreds, 
+
+
+Fundamentals of Quantum Algorithm 
+ - Quantum Grover's Algorithm 
+1) Quadratic Advantage of quantum over the Classical Alogrithm 
+2) For So Called unstructured search problems 
+3) Computational Problem - Unstructrued Search - Searching through the collection of items
+4) 
+
+Quantum Algorithm 
+1) Pell's Equation 
+2) Q Simulation 
+3) CryptoAnalysis 
+4) Welded Trees 
+5) Quantum Linear Algebra 
+6) Quantum Optimization 
+7) VQE 
+8) Hidden Subgroup Problems 
+9) Q Graph Algorithms
+10) Machine Learning
+11) QSVT 
+12) Q Annealing 
+13) Knot Invariants 
+14) QAOA
+
+
+
+Quantum Algorithm Zoo
+https://quantumalgorithmzoo.org/
+
+
+
