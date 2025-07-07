@@ -8,11 +8,16 @@ Physcial Qubit - Logical Qubit
 
 
 Fundamentals of Quantum Algorithm 
- - Quantum Grover's Algorithm 
+ - Quantum Grover's Algorithm [Useful for Searching]
 1) Quadratic Advantage of quantum over the Classical Alogrithm 
 2) For So Called unstructured search problems 
 3) Computational Problem - Unstructrued Search - Searching through the collection of items
-4) 
+4) Grover Operation Iterate Some number of times - finally measurement takes place a candidate solution to the search problem 
+5) Number of Iteration - to maximise the likelihood that the alogrithm succeeds in finding whether it is that we're searching for 
+while simultanously minimising the cost
+6) Unique Search Problem, which gives exactly one solution for search problem 
+7) Multiple solution - What happens when there are multiple Solutions
+
 
 Quantum Algorithm 
 1) Pell's Equation 
