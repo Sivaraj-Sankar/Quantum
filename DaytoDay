@@ -17,6 +17,18 @@ Fundamentals of Quantum Algorithm
 while simultanously minimising the cost
 6) Unique Search Problem, which gives exactly one solution for search problem 
 7) Multiple solution - What happens when there are multiple Solutions
+f sigma n --> sigma 
+8) There must be Boolean circuit - polynomial n 
+9) Goal is to find the binary solution x belongs to sigma^n
+10) If Input is in the description of boolean circuit for computing the function f - this is so called, np complete problem 
+
+11) Where and when we think about the problem arise is the 
+ and f is computed by boolean circuit.
+12) Input to this problem is function f 
+     no solution f turns out to be constant zero function 
+13) Searching for the solution to the complicated equation 
+14) Searching the combination to open the lock 
+
 
 
 Quantum Algorithm 
