@@ -28,6 +28,18 @@ f sigma n --> sigma
      no solution f turns out to be constant zero function 
 13) Searching for the solution to the complicated equation 
 14) Searching the combination to open the lock 
+15) Grover's Algorithm Searching Required O(squareroot(N))
+    Those Queries happen in superposition
+    It's a significant improvement over the classical algorithm 
+   Quadratic Advantage 
+16) It means that even though quantum computers don’t always give exponential speedups
+17) they can still outperform classical computers significantly — especially when - N is very large
+18) Many Quantum Algorithm in the query model - naturally expressed using Phase Query Gates
+19) Quick Review of Ordinary Query Gates for a function f of the form that we talked about the query gate, query gate Uf is defined on Standard Basis State 
+    for superposition of standard basis state the action is determined by linearity 
+20) It Automatically kicks the function value into the phase, rather than XORing the output value onto the additional qubit like we have for Uf
+21) If we apply the phase quick on Uf gate, we are just implementing the zf gate - This is the Phase Query Gates 
+
 
 
 
