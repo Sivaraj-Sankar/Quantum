@@ -39,6 +39,11 @@ f sigma n --> sigma
     for superposition of standard basis state the action is determined by linearity 
 20) It Automatically kicks the function value into the phase, rather than XORing the output value onto the additional qubit like we have for Uf
 21) If we apply the phase quick on Uf gate, we are just implementing the zf gate - This is the Phase Query Gates 
+22) If we just given with the phase query gate zf, this is the only to access the function f 
+23) OR - Zor gate --> not depends on the function f - it doesn't require any queries 
+
+Excercise 
+1) How to build the uf using the controlled zf 
 
 
 
