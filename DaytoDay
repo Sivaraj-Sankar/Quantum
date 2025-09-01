@@ -11,23 +11,29 @@ Fundamentals of Quantum Algorithm
  - Quantum Grover's Algorithm [Useful for Searching]
 1) Quadratic Advantage of quantum over the Classical Alogrithm 
 2) For So Called unstructured search problems 
-3) Computational Problem - Unstructrued Search - Searching through the collection of items
-4) Grover Operation Iterate Some number of times - finally measurement takes place a candidate solution to the search problem 
-5) Number of Iteration - to maximise the likelihood that the alogrithm succeeds in finding whether it is that we're searching for 
+3) Computational Problem - Unstructrued Search - Searching through the collection of items - isn't sorted and hasn't been ordered in a useful way 
+4) Initialization - Grover Operation Iterate Some number of times - finally measurement takes place a candidate solution to the search problem 
+Analysis of this operations to better understand what it does and why it's useful for searching 
+5) Number of Iteration[Grover Operations] - to maximise the likelihood that the alogrithm succeeds in finding whether it is that we're searching for 
 while simultanously minimising the cost
 6) Unique Search Problem, which gives exactly one solution for search problem 
 7) Multiple solution - What happens when there are multiple Solutions
 f sigma n --> sigma 
-8) There must be Boolean circuit - polynomial n 
-9) Goal is to find the binary solution x belongs to sigma^n
+8) There must be Boolean circuit - polynomial n - Evaluate the function, computing function f, and allow us to evaluate on different input strings 
+9) Goal is to find the binary solution x belongs to sigma^n that causes F to evaluate to 1 
 10) If Input is in the description of boolean circuit for computing the function f - this is so called, np complete problem 
 
 11) Where and when we think about the problem arise is the 
  and f is computed by boolean circuit.
+as we saw in 6th les, we can connect these two points of view through the construction that we went through for taking a boolean circuit and converting it into quantum circuit for 
+implementing a query operations or a query gate
 12) Input to this problem is function f 
      no solution f turns out to be constant zero function 
 13) Searching for the solution to the complicated equation 
 14) Searching the combination to open the lock 
+it is sensible to think about this problem in the context of the query model regardless of how we might feel about the practical relevance of that model 
+of course they aren't oracle or blackboxes in real life but until we learn otherwise complicated & mysterious boolean circuits are kind of like black boxes 
+14.1) If we have boolean circuits for the function rather than black box. then we can still run query algorithms on it 
 15) Grover's Algorithm Searching Required O(squareroot(N))
     Those Queries happen in superposition
     It's a significant improvement over the classical algorithm 
@@ -49,6 +55,11 @@ Excercise
 
 
 Quantum Algorithm 
+Grover's Algorithm 
+Shor's Algorithm 
+Measuring Computational Cost 
+Query Algorithms
+
 1) Pell's Equation 
 2) Q Simulation 
 3) CryptoAnalysis 
